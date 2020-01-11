@@ -34,9 +34,9 @@ It also contains a section on hardware setup for AV:s but it can be read/used fo
 You will need lenses for the cameras, for different use cases. In the Baidu Apollo setup, two 6 mm lenses and one 25 mm lens is used for the front facing cameras.
 
 |  Name | Price  | Buying link  |  Level |  Comments | 
-|---|---|---|---|---|---|---|
-| 25 mm lens (CS-mount)  |  6 USD |  https://www.aliexpress.com/item/32813129966.html |  Entry |  
-| 6 mm lens (CS-mount) | 3 USD  |  https://www.aliexpress.com/item/32633024819.html | Entry  |  
+|---|---|---|---|---|
+| 25 mm lens (CS-mount)  |  6 USD |  https://www.aliexpress.com/item/32813129966.html |  Entry |  |
+| 6 mm lens (CS-mount) | 3 USD  |  https://www.aliexpress.com/item/32633024819.html | Entry  |  |
 |   |   |   |   |   | 
 
 

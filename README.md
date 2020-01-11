@@ -43,14 +43,33 @@ You will need lenses for the cameras, for different use cases. In the Baidu Apol
 ## GPS/GLONASS
 
 
-
-|  Name | Refresh rate  | Price  | Buying link  |  Level |  Comments |   |
+|  Name | Refresh rate  | Price  | Buying link  |  Level |  Comments | 
 |---|---|---|---|---|---|---|
-|  GlobalSat BU-353-S4 USB GPS Receiver |  40USD |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+|  GlobalSat BU-353-S4 USB GPS Receiver | 5 Hz |  40 USD  |  https://www.thegpsstore.com/USGlobalSat-BU353-S4-USB-GPS-Receiver-P3219.aspx?gclid=Cj0KCQjw4qvlBRDiARIsAHme6ouhT1VkBXncsu2cn0sHCkJv9OfCNZAtqkjigDu8GIUxzPiZB_Ql0nsaAusgEALw_wcB | Entry  |   | 
+| Emlid Reach RS+ (GPS+RTK)  | 5 Hz  | 800 USD  |  https://emlid.com/reachrs/#rs-order |  Medium |   |   |
 |   |   |   |   |   |   |   |
 
 
+## IMU
+
+
+|  Name |  Refresh rate | Price | Buying link | Level | Comments |
+|---|---|---|---|---|---|
+|  SparkFun Razer 9-DOF |   |  36 USD |  https://www.sparkfun.com/products/14001 | Entry  |   | 
+|  Lord Microstrain 3DM-GX5-xx |   | 300 USD   |  https://www.ebay.com/sch/i.html?_nkw=microstrain | Medium |   | 
+|  Xsens MTI-xx |   |  300USD |  https://www.ebay.com/sch/i.html?_nkw=xsens&_sop=12 | Medium/High | Used by a lot of the big brands  | 
+
+## LIDAR
+
+This is now only 3D LIDAR.
+
+| Name |  Refresh rate  | Price  | Buying link  |  Level |  Comments   |   |   |
+|---|---|---|---|---|---|---|
+| LeddarTech M16  |   |  500 USD |   |   |   |   |
+| LeddarTech VU8 |   | 100 - 500 USD  |   |   |   |   |
+| BeneWake CE30 |   |  1000 - 1500 USD  |   |   |   |   |
+| Livox Mid40/Mid-100  |  600 - 1500 USD |   |   |   |   |   |
+| Velodyne VLP-16  |   | 2000 - 3000 USD  |   |   |   |   |
 
 
 

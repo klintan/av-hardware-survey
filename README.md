@@ -46,8 +46,8 @@ You will need lenses for the cameras, for different use cases. In the Baidu Apol
 |  Name | Refresh rate  | Price  | Buying link  |  Level |  Comments | 
 |---|---|---|---|---|---|
 |  GlobalSat BU-353-S4 USB GPS Receiver | 5 Hz |  40 USD  |  https://www.thegpsstore.com/USGlobalSat-BU353-S4-USB-GPS-Receiver-P3219.aspx?gclid=Cj0KCQjw4qvlBRDiARIsAHme6ouhT1VkBXncsu2cn0sHCkJv9OfCNZAtqkjigDu8GIUxzPiZB_Ql0nsaAusgEALw_wcB | Entry  |   | 
-| Emlid Reach RS+ (GPS+RTK)  | 5 Hz  | 800 USD  |  https://emlid.com/reachrs/#rs-order |  Medium |   |   |
-|   |   |   |   |   |   |   |
+| Emlid Reach RS+ (GPS+RTK)  | 5 Hz  | 800 USD  |  https://emlid.com/reachrs/#rs-order |  Medium |    |
+| Swiftnav Duro/Piksi  |  10 Hz |  2295 USD |  https://www.swiftnav.com/store?category=Duro+Starter+Kit |  Medium/High |   |
 
 
 ## IMU
@@ -61,16 +61,51 @@ You will need lenses for the cameras, for different use cases. In the Baidu Apol
 
 ## LIDAR
 
-This is now only 3D LIDAR.
+This is now only 3D LIDAR. For the missing buying links, search Ebay for the model.
 
-| Name |  Refresh rate  | Price  | Buying link  |  Level |  Comments   |   | 
-|---|---|---|---|---|---|---|
-| LeddarTech M16  |   |  500 USD |   |   |   |   |
-| LeddarTech VU8 |   | 100 - 500 USD  |   |   |   |   |
-| BeneWake CE30 |   |  1000 - 1500 USD  |   |   |   |   |
-| Livox Mid40/Mid-100  |  600 - 1500 USD |   |   |   |   |   |
-| Velodyne VLP-16  |   | 2000 - 3000 USD  |   |   |   |   |
+| Name |  Range | FOV  | Refresh rate | Price  | Buying link  |  Level |  Comments   |   | 
+|---|---|---|---|---|---|---|---|---|
+| LeddarTech M16  | 110m  | 19x3.0 degrees  | 6.25 Hz  | 500 USD  |   | Low/Medium  |  | |
+| LeddarTech VU8 | 34m  |  100x3.0 degrees |   | 100 - 500 USD  |   |  Low/Medium  | | |
+| BeneWake CE30 | 30m  |  60x4 degrees  | 30Hz  |  1000 - 1500 USD |   |  Low/Medium | |
+| Livox Mid40/Mid-100  | 90m  |  38.4 circular | | 600 - 1500 USD  |  https://store.dji.com/product/livox-mid?vid=48991 | Low/Medium  |   | A good review https://msadowski.github.io/livox-mid40-review/ explaining the special circular FoV etc.|
+| Velodyne VLP-16  |  100m |  360x30 degrees | 10Hz (varies)  | 2000 - 3000 USD  |   | Medium/High  | |
 
+
+## Radar
+
+|  Name |  Range | Price  |  Buying link | Comments |
+|---|---|---|---|---|
+|  Lexus Toyota 2015 - 2016 (88210-07010) |  2 - 150 m (?) | 100 USD  |  https://www.ebay.com/itm/FACTORY-OEM-2015-2019-TOYOTA-HIGHLANDER-ADAPTIVE-CRUISE-CONTROL-DISTANCE-SENSOR/143449107826?epid=658112985&hash=item21663bad72:g:g6wAAOSwkYZdyLjx | Short range radar |
+|   |   |   |   | | 
+
+
+## SONAR / Ultrasonic sensors
+
+| Name  | Detecting distance | Price | Buying link  |  Comments |
+|---|---|---|---|---|
+|  Car Parking Sensors 4 Radars Kits 22mm Ultrasonic | 0.3 - 2m | 20USD |  https://www.aliexpress.com/item/33045825229.html?spm=a2g0o.productlist.0.0.65801263deosGH&algo_pvid=817b9f1f-c294-459c-bfb7-6f29adc523d2&algo_expid=817b9f1f-c294-459c-bfb7-6f29adc523d2-8&btsid=a40102de-f056-4ac1-94ed-838e0f0bb54d&ws_ab_test=searchweb0_0,searchweb201602_8,searchweb201603_53 |   |
+|   |   |   |   |
+
+
+## Wheel encoders
+
+
+
+| Name  |  Price | Buying link  |  Comments |
+|---|---|---|---|
+| US Stock Encoder 600P  | 20 USD  |  https://www.ebay.com/itm/US-Stock-Encoder-600-P-R-5V-24V-Incremental-Rotary-AB-2-Phase-6mm-Shaft/371842303935?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m1438.l2649 |   |
+|   |   |   |   |
+
+# References and resources
+
+### General AV hardware stack
+https://www.youtube.com/watch?v=V8LA0_bb9LI
+
+### Radar
+https://www.denso-ten.com/business/technicaljournal/pdf/23-2.pdf
+
+https://github.com/frk2/toyoyta_radar_control_can
 
 
 

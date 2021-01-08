@@ -58,6 +58,7 @@ You will need lenses for the cameras, for different use cases. In the Baidu Apol
 |  SparkFun Razer 9-DOF |   |  36 USD |  https://www.sparkfun.com/products/14001 | Entry  |   | 
 |  Lord Microstrain 3DM-GX5-xx |   | 300 USD   |  https://www.ebay.com/sch/i.html?_nkw=microstrain | Medium |   | 
 |  Xsens MTI-xx |   |  300USD |  https://www.ebay.com/sch/i.html?_nkw=xsens&_sop=12 | Medium/High | Used by a lot of the big brands  | 
+| TinkerForge IMU Brick 2.0 | | 65 USD | https://www.tinkerforge.com/en/shop/bricks/imu-v2-brick.html | Entry | | 
 
 ## LIDAR
 
